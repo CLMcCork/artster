@@ -1,0 +1,23 @@
+{
+  "name": "artster",
+  "version": "1.0.0",
+  "description": "Working w/ npms, package.JSON files, and dependencies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CLMcCork/artster.git"
+  },
+  "author": "Crystal McCorkle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CLMcCork/artster/issues"
+  },
+  "homepage": "https://github.com/CLMcCork/artster#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "figlet": "^1.5.0"
+  }
+}
